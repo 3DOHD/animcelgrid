@@ -430,7 +430,7 @@ void DrawGamePlayScreen() // TODO - This can and should be easily cleaned up
 }
 
 /*
-	Handle input includes additional checks for debouncing and intenionally articifially
+	Handle input includes additional checks for debouncing and intenionally artificially 
 	introducing input delays. Otherwise button presses register far too quickly
 	
 	Any of the "kp" variables keep track of a button being pressed, and held
